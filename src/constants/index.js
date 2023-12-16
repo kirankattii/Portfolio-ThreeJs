@@ -205,7 +205,7 @@ export const projects = [
 		name: "Multiplayer video game",
 		description:
 			"Developed a multiplayer video game using Three.js and React, showcasing proficiency in front-end technologies. Successfully integrated real-time multiplayer functionality, demonstrating strong problem-solving skills.",
-		link: "https://github.com/adrianhajdin/project_next13_car_showcase",
+		link: "https://github.com/kirankattii/shotting-game",
 	},
 	{
 		iconUrl: snapgram,
